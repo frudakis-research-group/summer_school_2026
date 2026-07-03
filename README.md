@@ -26,28 +26,28 @@ The summer school is organized into four main thematic modules. Each section bel
 ### ⚛️ Ab Initio Methods
 Electronic structure methods and first-principles simulations of materials.
 
-👉 [Explore Ab Initio materials](./ab-initio/README.md)
+👉 [Explore Ab Initio](./ab-initio/README.md)
 
 ---
 
 ### 🌡️ Molecular Dynamics (MD)
 Atomistic simulations of dynamic processes in materials and molecular systems.
 
-👉 [Explore MD materials](./md/README.md)
+👉 [Explore MD](./md/README.md)
 
 ---
 
 ### 🧪 Grand Canonical Monte Carlo (GCMC)
 Statistical mechanics approaches for adsorption in porous materials.
 
-👉 [Explore GCMC materials](./gcmc/README.md)
+👉 [Explore GCMC](./gcmc/README.md)
 
 ---
 
 ### 🤖 Machine Learning in Materials Science
 Data-driven methods and AI approaches for materials modeling and prediction.
 
-👉 [Explore ML materials](./ml/README.md)
+👉 [Explore ML](./ml/README.md)
 
 ---
 
