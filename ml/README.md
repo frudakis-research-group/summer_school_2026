@@ -8,7 +8,7 @@ By the end of this session, you will:
 
 * 🐍 Become familiar with basic Python programming.
 * 🧪 Build a simple machine learning model for predicting gas adsorption in Metal–Organic Frameworks (MOFs).
-* 🖼️ Train a basic neural network for image classification.
+* 🖼️ Use neural network for image classification.
 
 ---
 
@@ -48,13 +48,13 @@ Run the following commands **inside a Jupyter notebook cell**:
 
 ### Exercise 3 — Image Classification
 
-Train a basic neural network to classify images. This exercise provides a simple introduction to image classification using neural networks.
+This exercise provides a simple introduction to deep learning using image classification.
 
 ---
 
 ## ▶️ Getting Started
 
-1. Open the repository in Binder or clone it locally.
+1. Open the repository in Colab or clone it locally.
 2. Install the required Python packages (if running locally).
 3. Download the MOFs dataset.
-4. Work through the notebooks in order.
+4. Work through the notebooks.
