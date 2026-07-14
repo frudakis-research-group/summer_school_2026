@@ -8,13 +8,15 @@ By the end of this session, you will:
 
 * 🐍 Become familiar with basic Python programming.
 * 🧪 Build a simple machine learning model for predicting gas adsorption in Metal–Organic Frameworks (MOFs).
-* 🖼️ Train a basic neural network for image classification.
+* 🖼️ Use neural network for image classification.
 
 ---
 
 ## 📚 Exercises
 
 ### Exercise 1 — Python Basics
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/frudakis-research-group/summer_school_2026/blob/master/ml/exercise_1.ipynb)
 
 Write a Python program that:
 
@@ -27,6 +29,8 @@ Write a Python program that:
 ---
 
 ### Exercise 2 — Predicting Gas Adsorption in MOFs
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/frudakis-research-group/summer_school_2026/blob/master/ml/exercise_2.ipynb)
 
 Build a simple machine learning model to predict gas adsorption in Metal–Organic Frameworks (MOFs).
 
@@ -48,13 +52,15 @@ Run the following commands **inside a Jupyter notebook cell**:
 
 ### Exercise 3 — Image Classification
 
-Train a basic neural network to classify images. This exercise provides a simple introduction to image classification using neural networks.
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/frudakis-research-group/summer_school_2026/blob/master/ml/exercise_3.ipynb)
+
+This exercise provides a simple introduction to deep learning using image classification.
 
 ---
 
 ## ▶️ Getting Started
 
-1. Open the repository in Binder or clone it locally.
+1. Open the repository in Colab or clone it locally.
 2. Install the required Python packages (if running locally).
 3. Download the MOFs dataset.
-4. Work through the notebooks in order.
+4. Work through the notebooks.
